@@ -32,7 +32,7 @@ Para una una ejecución rápida del código sin necesidad de descargar nada, pue
 
 | Imagen Solar Original | Máscara de Predicción |
 | :---: | :---: |
-| ![Original](https://github.com/857and/Segmentacion-de-Filamentos-Solares-en-C-LibTorch-OpenCV/blob/67cc9191c0c2401295b425221eb7e5eabd3fa90f/imagen_readme/20111114063134Lh.jpeg) | ![Predicción](https://github.com/857and/Segmentacion-de-Filamentos-Solares-en-C-LibTorch-OpenCV/blob/67cc9191c0c2401295b425221eb7e5eabd3fa90f/imagen_readme/pred_20111114063134Lh.jpeg) |
+| ![Original](https://github.com/857and/Segmentacion-de-Filamentos-Solares-en-C/blob/2248f76034d52a5233c587fdf2ef9e5feb51d259/imagen_readme/20111114063134Lh.jpeg) | ![Predicción](https://github.com/857and/Segmentacion-de-Filamentos-Solares-en-C/blob/2248f76034d52a5233c587fdf2ef9e5feb51d259/imagen_readme/pred_20111114063134Lh.jpeg) |
 
 
 ## Estructura del Repositorio
