@@ -1,0 +1,19 @@
+@"
+.vs/
+out/
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/compile_commands.json
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+.DS_Store
+Thumbs.db
+.env
+"@ | Set-Content -Encoding utf8 .gitignore
